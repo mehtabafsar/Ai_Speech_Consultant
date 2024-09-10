@@ -99,6 +99,3 @@ record_audio("user_speech.wav")
 
 For any questions or collaborations, feel free to reach out!
 
----
-
-This README provides a concise overview of the project’s capabilities, installation instructions, usage examples, and contact information. Adjust the content as needed based on your specific project requirements and additional features.
